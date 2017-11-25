@@ -53,4 +53,3 @@ for k in range (sizex):
 #finish part
 Image = np.asarray(MatrixFinish)
 Image.fromarray(Image,'L').save('NewImage.png','PNG')
-                
